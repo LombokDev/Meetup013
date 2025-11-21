@@ -9,7 +9,7 @@ Lightning talk
 | WAKTU         | PEMBICARA                  | AGENDA                                             |
 |---------------|----------------------------|----------------------------------------------------|
 | 09.00 - 09.15 |                            | Registrasi                                         |
-| 09.15 - 09.30 | Herpiko Dwi Aguno          | Pembukaan                                          |
+| 09.15 - 09.30 | @@jiadmiftx as MC          | Pembukaan                                          |
 | 09.30 - 10.00 (30 mins) | Alvin Adetya               | Freelancer ≠ Bekerja Sendiri                       |
 | 10.00 - 10.10 |                            | Tanya-Jawab                                        |
 | 10.10 - 10.25 (15 mins) | Muhammad Dani Setiawan     | XSS for Beginners: The Most Common Web Vulnerability |
@@ -18,10 +18,11 @@ Lightning talk
 | 11.05 - 11.15 |                            | Tanya-Jawab                                        |
 | 11.15 - 11.45 (30 mins) | Ilham Bintang              | Memory Management: The Untold Story Behind Your Code |
 | 11.45 - 11.55 |                            | Tanya-Jawab                                        |
-| 11.55 - 13.30 |                            | Break                                             |
-| 13.30 - 13.45 (15 mins) | Abu Ammar                  | Optimasi Prompt LLM: Migrasi dari JSON ke TOON Format |
-| 13.45 - 13.55 |                            | Tanya-Jawab                                        |
-| 13.55 - 14.00 | Herpiko Dwi Aguno                 | Sustainable Community - Discussion for the next meetup |
+| 11.55 - 13.00 |                            | Break                                             |
+| 13.00 - 13.15 (15 mins) | Abu Ammar                  | Optimasi Prompt LLM: Migrasi dari JSON ke TOON Format |
+| 13.15 - 13.25 |                            | Tanya-Jawab                                        |
+| 13.25 - 13.55 (30 mins) | Herpiko Dwi Aguno                 | Navigating in AI Era |
+| 13.55 - 14.00 |                            | Tanya-Jawab                                        |
 
 ## Aturan
 

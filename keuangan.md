@@ -1,7 +1,11 @@
-Total dana masuk ? rupiah, yang terdiri dari :
+# Total dana masuk
+
+? rupiah, yang terdiri dari :
 
 - ?
 
-Dana digunakan untuk :
+# Penggunaan dana
 
-- ?
+### Cetak X Banner di Kubus
+
+Rp 100.000

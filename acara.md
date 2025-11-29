@@ -11,10 +11,10 @@ Lightning talk
 | 08:30 - 09:00 (30 mins)|                            | Registrasi                                         |
 | 09:00 - 09:10 (10 mins) | @jiadmiftx as MC          | Pembukaan                                          |
 | 09:10 - 09:40 (30 mins) | Alvin Adetya               | Freelancer ≠ Bekerja Sendiri                       |
-| 09:40 - 10:10 (30 mins) |                            | Meet Your Last CMS! Next.js X PayloadCMS                                        |
+| 09:40 - 10:10 (30 mins) | Grafis Nuresa               | Meet Your Last CMS! Next.js X PayloadCMS                                        |
 | 10:10 - 11:40 (30 mins) | Rahmat Wahyu H              | The New Tojan Horse |
 | 11:40 - 12:10 (30 mins) | Ilham Bintang              | Memory Management: The untold Story Behind Your Code        |
-| 12:10 - 12:25 (15 mins) | Grafis Nuresa              | Optimasi Prompt LLM: Migrasi dari JSON ke TOON Format           |
+| 12:10 - 12:25 (15 mins) | Abu Ammar                  | Optimasi Prompt LLM: Migrasi dari JSON ke TOON Format           |
 | 12:25 - 13:00 (35 mins) |                            | Break                                        |
 | 13:00 - 14:00 (60 mins) |                           | Community Discussion |
 

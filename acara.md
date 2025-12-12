@@ -10,7 +10,7 @@ Lightning talk
 |---------------|----------------------------|----------------------------------------------------|
 | 08:30 - 09:00 (30 mins)|                            | Registrasi                                         |
 | 09:00 - 09:10 (10 mins) | @jiadmiftx as MC          | Pembukaan                                          |
-| 09:10 - 09:40 (30 mins) | Alvin Adetya               | Freelancer ≠ Bekerja Sendiri                       |
+| 09:10 - 09:40 (30 mins) | Gusti Ngurah Mertayasa               | Over-the-Air(OTA) Update: Real-time update delivery untuk mini-app tanpa perlu resubmission ke App Store/Play Store                       |
 | 09:40 - 10:10 (30 mins) | Grafis Nuresa               | Meet Your Last CMS! Next.js X PayloadCMS                                        |
 | 10:10 - 11:40 (30 mins) | Rahmat Wahyu H              | The New Tojan Horse |
 | 11:40 - 12:10 (30 mins) | Ilham Bintang              | Memory Management: The untold Story Behind Your Code        |

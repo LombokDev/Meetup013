@@ -1,0 +1,32 @@
+- Bentuk acara lain:
+  - Bootcamp
+  - Mini batch for specific topic. Direalisasikan oleh bang Rizal
+  - Basecamp. Sedang digodok.
+- Frekuensi acara:
+  - 3 bulan sekali
+    - Kesibukan kawan-kawan
+    - Persiapan materi
+    - Kalau 2 pemateri, potensi terlalu sedikit yang datang, impact kecil
+    - Lebih perpare
+  - 1 bulan sekali
+    - akan besar kalau banyak partisipan, waktu laam,
+    - harapannya bisa menarik orang baru
+- Tantangan dari kepengurusan sebelumnya (Osy dkk):
+  - Resource
+  - Pendanaan
+  - Fleksibilitas buat diskusi dengan temen-temen pengurus sebelumnya
+  - Utilisasi sosial media masih kurang. Perlu perkuat sosial media oleh gen Z/A
+- Kepengurusan
+  - Berdasarkan evaluasi dari effort untuk regenerasi dan beban yang ditanggung oleh teman-teman terdahulu, kepengurusan digeser menjadi per event. Meskipun demikian, komunitas dibina dan diarahkan oleh sekelompok orang, saat ini pemegang dana komunitas dan admin di grup kontributor.
+  - Kolaborasi dilakukan di group terpisah yang terdiri dari kontributor lama maupun baru.
+  - Perlu bersama-sama memastikan komunitas nyaman untuk siapa pun termasuk calon kontributor baru.
+- Feedback dari Lotimdev
+  - Dorong mahasiswa untuk kontribusi
+  - Sulit kalau tidak ada sistem yang mengawal regenerasi. Antara:
+   - Turun untuk cari orang baru
+   - Tarik orang baru dari kegiatan yang berkelanjutan
+- Prioritas topik untuk meningkatkan kualitas acara, utamakan topik yang:
+  - Dampaknya paling besar
+  - Membahas hal-hal terbaru / trend
+- Yayasan:
+  - Akan dicoba untuk membangkitkan dan restrukturisasi Yayasan Linov, yang harapannya bisa menaungi/membantu Lombok Dev, Dhiya, Hayati.io dan gerakan lainnya. Sedang diusahakan oleh bang Lian.
